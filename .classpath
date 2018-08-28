@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="D:/Android/Software/commons-net-3.2/commons-net-3.2.jar" sourcepath="D:/Android/Software/commons-net-3.2/commons-net-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Android/Software/libraries/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Android/Software/libraries/commons-net-ftp-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Android/Software/libraries/commons-net-examples-3.2.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
